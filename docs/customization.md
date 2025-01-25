@@ -1,7 +1,7 @@
 ---
 title: How to Play
 layout: default
-nav_order: 3
+nav_order: 2
 description: "Learn step-by-step how to play Minesweeper and become a pro!"
 permalink: /how-to-play/
 ---
