@@ -1,7 +1,7 @@
 ---
 title: Leaderboard
 layout: default
-nav_order: 4
+nav_order: 3
 description: "Track the top players and their achievements in Minesweeper."
 permalink: /leaderboard/
 ---
