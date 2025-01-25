@@ -8,7 +8,7 @@ permalink: /about/
 
 # 📝 **About the Minesweeper Simulation Project**
 
- his project is a passionate endeavor to recreate the classic game of Minesweeper while exploring and applying core programming concepts.  
+This project is a passionate endeavor to recreate the classic game of Minesweeper while exploring and applying core programming concepts.  
 
 ---
 
