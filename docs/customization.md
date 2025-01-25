@@ -1,7 +1,7 @@
 ---
 title: How to Play
 layout: default
-nav_order: 6
+nav_order: 3
 description: "Learn step-by-step how to play Minesweeper and become a pro!"
 permalink: /how-to-play/
 ---
@@ -44,11 +44,10 @@ Get ready to master **Minesweeper**! This step-by-step guide will walk you throu
 
 ## 🔍 **Understanding the Numbers**  
 
-<div style="background-color: #fffde7; padding: 10px; border-left: 5px solid #fbc02d;">
 Each number indicates the **count of mines** in the eight surrounding cells:  
-- 1: One mine nearby.  
-- 2: Two mines nearby.  
-- 3: Three mines nearby.  
+- **1**: One mine nearby.  
+- **2**: Two mines nearby.  
+- **3**: Three mines nearby.  
 ... and so on. Use these numbers to deduce mine locations!
 </div>
 
