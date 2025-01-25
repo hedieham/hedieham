@@ -14,7 +14,6 @@ Get ready to master **Minesweeper**! This step-by-step guide will walk you throu
 
 ## 🏁 **Getting Started**  
 
-<div style="background-color: #e8f5e9; padding: 10px; border-left: 5px solid #43a047;">
 - Start by selecting a **difficulty level** based on the grid size and number of mines:  
   - 🟢 **Easy**: 9x9 grid with 10 mines.  
   - 🟡 **Medium**: 16x16 grid with 40 mines.  
@@ -47,9 +46,9 @@ Get ready to master **Minesweeper**! This step-by-step guide will walk you throu
 
 <div style="background-color: #fffde7; padding: 10px; border-left: 5px solid #fbc02d;">
 Each number indicates the **count of mines** in the eight surrounding cells:  
-- **1**: One mine nearby.  
-- **2**: Two mines nearby.  
-- **3**: Three mines nearby.  
+- 1: One mine nearby.  
+- 2: Two mines nearby.  
+- 3: Three mines nearby.  
 ... and so on. Use these numbers to deduce mine locations!
 </div>
 
