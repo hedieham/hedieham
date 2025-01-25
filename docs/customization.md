@@ -20,7 +20,6 @@ Get ready to master **Minesweeper**! This step-by-step guide will walk you throu
   - 🔴 **Hard**: 16x30 grid with 99 mines.  
 - The game board will be revealed with covered cells.  
 - Click on a cell to reveal its content.
-</div>
 
 ---
 
@@ -49,7 +48,6 @@ Each number indicates the **count of mines** in the eight surrounding cells:
 - **2**: Two mines nearby.  
 - **3**: Three mines nearby.  
 ... and so on. Use these numbers to deduce mine locations!
-</div>
 
 ---
 
